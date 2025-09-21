@@ -1,0 +1,4 @@
+export enum EventType {
+  NEW_INVOICE = "NEW_INVOICE",
+  UPDATE_INVOICE = "UPDATE_INVOICE",
+}
